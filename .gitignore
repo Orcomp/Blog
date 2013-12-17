@@ -1,0 +1,8 @@
+.DS_Store
+.DS_Store?
+
+# Exclude site
+_site/
+
+# Exclude temp jEdit files
+*.*~
