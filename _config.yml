@@ -23,12 +23,12 @@
 # url : http://thedereck.github.io
 # email : thedereck@thedereck.com
 # author : Dereck Curry
-name : gh-pages-blog
-brand : gh-pages-blog
-description : The Official gh-pages-blog GitHub Page
-url : http://thedereck.github.io/gh-pages-blog
-email : thedereck@thedereck.com
-author: Dereck Curry
+name : Orcomp
+brand : Orcomp
+description : Operations Research Blog
+url : http://orcomp.github.io/Blog
+email : operationsresearchcomp@gmail.com
+author: Ben
 
 
 # The following is a list of files to exclude from inclusion in the
@@ -337,8 +337,8 @@ github_projects :
   header : GitHub Projects
   projects :
   - project :
-    name : gh-pages-blog
-    url : https://github.com/thedereck/gh-pages-blog
+    name : Orcomp
+    url : https://github.com/Orcomp/Orcomp
 
 
 # These are links to other websites outside of the blog that are not part of
@@ -364,7 +364,7 @@ github_projects :
 #       name : Lowcountry Blues Club
 #       url : http://lowcountrybluesclub.blogspot.com
 external_links :
-  header : More Great gh-pages-blog Sites
+  header : More Great Sites
   links :
     - link :
       name : The Dereck
