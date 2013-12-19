@@ -17,7 +17,7 @@ I ended up choosing [gh-pages-blog](https://github.com/thedereck/gh-pages-blog/)
 
 ## gh-pages-blog
 
-- Create a new repository on your github account called \"Blog\". (For example this is mine: https://github.com/Orcomp/Blog)
+- Create a new repository on your github account called \"Blog\". (For example this is mine: [https://github.com/Orcomp/Blog](https://github.com/Orcomp/Blog))
 - Clone the repository to your computer.
 - Copy the files from the [gh-pages-blog](https://github.com/thedereck/gh-pages-blog/) repository to your \"Blog\" repository. (i.e. you will probably need to clone the gh-pages-blog repo to another folder and then copy the files across.)
 - On your computer \"Blog\" repository run the following command to create a \"gh-pages\" branch:
@@ -99,9 +99,11 @@ in order to find out where the error is occurring.
 
 - Create a batch file to start the server.
 
-- To ensure your version of Jekyll is always in sync with github's, run `bundle update github-pages`.
+- To ensure your version of Jekyll is always in sync with github\'s, run `bundle update github-pages`.
 
 # Links
+
+Here are some useful links:
 
 - [Jekyll](http://jekyllrb.com/) website with documentation
 - [Octopress](http://octopress.org/) Very popular blogging framework for hackers.
