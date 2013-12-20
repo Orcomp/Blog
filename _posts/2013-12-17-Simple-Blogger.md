@@ -26,7 +26,7 @@ I ended up choosing [gh-pages-blog](https://github.com/thedereck/gh-pages-blog/)
     	git checkout --orphan gh-pages
 
 
-- Modify the config.yml to reflect your own settings. (i.e. change the author name and URL address etc...)
+- Modify the config.yml to reflect your own settings. (i.e. change the author name and URL address etc.)
 - Commit the files to your local repo, then push your commit to github. Within the next 10 mins you should be able to navigate to http://username.github.io/Blog. You will see a \"Hello World\" post.
 - To add new posts follow the instructions found [here](http://thedereck.github.io/gh-pages-blog/user-manual/getting-started.html).
 
@@ -60,13 +60,24 @@ This will create a \"C:\DevKit\" directory.
 
 Then follow the instructions on this page: [http://flatshaded.com/2013/05/installing-jekyll-on-windows/](http://flatshaded.com/2013/05/installing-jekyll-on-windows/) (NOTE: you already have devkit installed, so all you need to do is initialise the config.yml, then edit the file by adding the location of your ruby installation at the end of the file with a leading \'-\' i.e. \"- C:\ruby190\". Then run the command `ruby dk.db install`.)
 
-Finally at the command prompt type in:
+Then at the command prompt type in:
 
      gem install bundler
 
-Then, follow the instruction on this page https://help.github.com/articles/using-jekyll-with-pages, starting from point 3 to install Jekyll.
+Finally to install Jekyll follow the instructions found in point 3 of this page: [https://help.github.com/articles/using-jekyll-with-pages](https://help.github.com/articles/using-jekyll-with-pages).
+Which is shown in the image below:
 
-Then
+![Jekyll Installation](/img/SimpleBlogging/InstallJekyll.png)
+
+If you followed the instruction above you will have:
+
+- Created a Gemfile (with no extension) in your base repository and added the following lines to it:
+       source 'https://rubygems.org'
+	   gem 'github-pages'
+
+- Run the command `bundle install` at the command prompt in your repository.
+
+Just to be on the safe side you should also run:
 
      bundle update
 
@@ -74,14 +85,13 @@ You can now run the Jekyll server. Execute the following command in your Blog re
 
     bundle exec jekyll serve
 
-then point your browser to: \"localhost:4000\"
-
-This will allow you to make changes to your blogs and refresh your browser to immediately see the updates.
+then point your browser to: \"http://localhost:4000\"
 
 
 # Tips
 
-- You need to escape double quotes, single quotes and square brackets etc... i.e.
+- Since Jekyll 1.4.2. You need to escape double quotes, single quotes and square brackets etc. 
+i.e.
 
        \" and \' and \[  \]
 
