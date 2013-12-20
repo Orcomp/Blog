@@ -67,7 +67,7 @@ Then at the command prompt type in:
 Finally to install Jekyll follow the instructions found in point 3 of this page: [https://help.github.com/articles/using-jekyll-with-pages](https://help.github.com/articles/using-jekyll-with-pages).
 Which is shown in the image below:
 
-![Jekyll Installation](/img/SimpleBlogging/InstallJekyll.png)
+![Jekyll Installation]({{site.url}}/img/SimpleBlogging/InstallJekyll.png)
 
 If you followed the instruction above you will have:
 
