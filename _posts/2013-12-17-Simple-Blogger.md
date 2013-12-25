@@ -95,8 +95,9 @@ i.e.
 
        \" and \' and \[  \]
 
-- If you want Jekyll to automatically update your blogs as you edit the markdown files then start it using this command:
-
+- If you want Jekyll to automatically update your blogs as you edit the markdown files, you will first need to install the "wdm" package:
+      gem install wdm
+Then start Jekyll with the following command:
       jekyll serve --watch
 
 NOTE: For some reason `bundle exec jekyll serve --watch` does not work.
