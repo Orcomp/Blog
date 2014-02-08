@@ -60,6 +60,14 @@ Again it is fast and stays out the way.Perfect!
 
 For me Greenshot is hands down the best free screen capture application available on Windows.
 
+**Settings:**
+- Disable drop shadow on everything
+- Draw Rectangle => Line thickness: 3
+- Draw Ellipse => Line thickness: 3
+- Draw Line => Line thickness: 5
+- Draw Arrow => HTML Colour: red, Line thickness: 5
+- Textbox => Line thickness: 3, Microsoft Sans Serif
+
 ## Summary
 
 That is it! you only need 4 tools to be really productive at writing documentation and requirements.
