@@ -15,7 +15,7 @@ I have tried a lot of different apps over the years and have found these to be t
 My main criteria for selecting these tools are:
 - Easy to use (after a short learning period).
 - Productive (the tool must not get in the way of what I am writing).
-- Can be **version controlled**. (i.e. saves files to text format. This is **really** important for me.)
+- Can be **version controlled**. (i.e. saves files to text format. This is **really** important for me, because it makes it a lot easier to collaborate with others as well as all the other advantages of having version control.)
 
 ### MardownPad (Markdown editor and viewer)
 
