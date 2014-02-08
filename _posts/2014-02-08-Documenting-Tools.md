@@ -33,9 +33,9 @@ Webiste: [http://tpx.sourceforge.net/](http://tpx.sourceforge.net/)
 
 For drawing illustrations quickly and efficiently. (Make sure you learn the [shortcut keys](http://tpx.sourceforge.net/tpx_using_mouse_for_editing.htm)).
 
-I can draw illustrations really fast with this tool. It isn't the most polished illustration tool out there and it doesn't have thousands of options, but it is hands down the most productive for me.
+I can draw illustrations really fast with this tool. It is not the most polished illustration tool out there and it does not have thousands of options, but it is hands down the most productive for me.
 
-(It hasn't be updated in a long time but it doesn't need to...)
+(It has not be updated in a long time but it does not need to...)
 
 ### PlantUML (UML diagrams)
 
@@ -98,13 +98,13 @@ That is why good requirements are so important and valuable. The wrong requireme
 
 **Notes**:
 
-- If you can't keep a requirement short or simple it is generally a good indication you need to split your requirement into smaller requirements. (Go back to step 5. in the Process section.)
+- If you can not keep a requirement short or simple it is generally a good indication you need to split your requirement into smaller requirements. (Go back to step 5. in the Process section.)
 
-- Don't try and make pictures and illustrations beautiful. They only need to convey key pieces of information. Keep them simple.
+- Do not try and make pictures and illustrations beautiful. They only need to convey key pieces of information. Keep them simple.
 
 **Fact**: Writing good requirements is hard work and usually take time and a few iterations.
 
-> That's been one of my mantras - focus and simplicity. Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it's worth it in the end because once you get there, you can move mountains.
+> Thats been one of my mantras - focus and simplicity. Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But its worth it in the end because once you get there, you can move mountains.
 
 > **Steve Jobs**
 
