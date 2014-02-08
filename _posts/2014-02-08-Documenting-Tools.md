@@ -66,11 +66,8 @@ That is it! you only need 4 tools to be really productive at writing documentati
 
 All of these tools (except Greeshot) will produce text documents that can easily be version controlled and saved to a git repository.
 
-```
-A picture is worth a thousand words.
-A good annotated picture (or illustration) is worth even more :)
-```
-
+> A picture is worth a thousand words.
+> A good annotated picture (or illustration) is worth even more :)
 
 # Requirement Writing Tips
 
