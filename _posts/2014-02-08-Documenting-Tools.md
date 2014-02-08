@@ -67,6 +67,7 @@ That is it! you only need 4 tools to be really productive at writing documentati
 All of these tools (except Greeshot) will produce text documents that can easily be version controlled and saved to a git repository.
 
 > A picture is worth a thousand words.
+> 
 > A good annotated picture (or illustration) is worth even more :)
 
 # Requirement Writing Tips
@@ -102,7 +103,7 @@ That is why good requirements are so important and valuable. The wrong requireme
 **Fact**: Writing good requirements is hard work and usually take time and a few iterations.
 
 > Thats been one of my mantras - focus and simplicity. Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But its worth it in the end because once you get there, you can move mountains.
-
+>
 > **Steve Jobs**
 
 
