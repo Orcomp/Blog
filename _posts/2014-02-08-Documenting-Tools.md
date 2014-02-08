@@ -62,10 +62,11 @@ For me Greenshot is hands down the best free screen capture application availabl
 
 **Settings:**
 - Disable drop shadow on everything
+- HTML Colour: red (for everything)
 - Draw Rectangle => Line thickness: 3
 - Draw Ellipse => Line thickness: 3
 - Draw Line => Line thickness: 5
-- Draw Arrow => HTML Colour: red, Line thickness: 5
+- Draw Arrow => Line thickness: 5
 - Textbox => Line thickness: 3, Microsoft Sans Serif
 
 ## Summary
