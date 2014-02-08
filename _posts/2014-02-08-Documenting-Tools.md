@@ -19,7 +19,7 @@ My main criteria for selecting these tools are:
 
 ### MardownPad (Markdown editor and viewer)
 
-Website: http://markdownpad.com/
+Website: [http://markdownpad.com/](http://markdownpad.com/)
 
 I try and write all my docs and requirements in [markdown](http://daringfireball.net/projects/markdown/syntax) format. ([CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)).
 
@@ -29,7 +29,7 @@ MarkdownPad works well for me. I use the GitHub flavored Markdown (Offline) sett
 
 ### TpX (Illustration tool)
 
-Webiste: http://tpx.sourceforge.net/
+Webiste: [http://tpx.sourceforge.net/](http://tpx.sourceforge.net/)
 
 For drawing illustrations quickly and efficiently. (Make sure you learn the [shortcut keys](http://tpx.sourceforge.net/tpx_using_mouse_for_editing.htm)).
 
@@ -39,7 +39,7 @@ I can draw illustrations really fast with this tool. It isn't the most polished 
 
 ### PlantUML (UML diagrams)
 
-Website: http://plantuml.sourceforge.net/
+Website: [http://plantuml.sourceforge.net/](http://plantuml.sourceforge.net/)
 
 (Yea.. the website looks terrible, but the tool is great :)
 
@@ -51,7 +51,7 @@ UML cheatsheets: [cheatsheet1](http://loufranco.com/wp-content/uploads/2012/11/c
 
 ### GreenShot (Screen capture)
 
-Website: http://getgreenshot.org/
+Website: [http://getgreenshot.org/](http://getgreenshot.org/)
 
 Best free screen capture out there. Simple and does what it is supposed to really well.
 
@@ -70,6 +70,7 @@ All of these tools (except Greeshot) will produce text documents that can easily
 A picture is worth a thousand words.
 A good annotated picture (or illustration) is worth even more :)
 ```
+
 
 # Requirement Writing Tips
 
@@ -101,7 +102,12 @@ That is why good requirements are so important and valuable. The wrong requireme
 
 - Don't try and make pictures and illustrations beautiful. They only need to convey key pieces of information. Keep them simple.
 
-**Fact**: Writing good requirements is hard work and can take some time.
+**Fact**: Writing good requirements is hard work and usually take time and a few iterations.
+
+> That's been one of my mantras - focus and simplicity. Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it's worth it in the end because once you get there, you can move mountains.
+
+> **Steve Jobs**
+
 
 **Hint**: Once requirements are written and implemented, they can be turned into documentation.
 
