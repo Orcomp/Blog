@@ -1,6 +1,6 @@
 ---
 layout : post
-title : Documentating Tools
+title : Documentation Tools
 category : Manual
 tags :
   - Documentation
@@ -117,6 +117,7 @@ That is why good requirements are so important and valuable. The wrong requireme
 
 
 **Hint**: Once requirements are written and implemented, they can be turned into documentation.
+Actually, let me rephrase this. You know your requirement is good when you can easily turn it into documentation.
 
 # Documentation Writing tips
 
