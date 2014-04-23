@@ -22,6 +22,7 @@ Other great list of useful tools: [Scott Hansleman's List](http://www.hanselman.
 - [VLC  media player](http://www.videolan.org/index.html)
 - [imgBurn](http://www.imgburn.com/)
 - [f.lux](https://justgetflux.com/)
+- [TeraCopy](http://codesector.com/teracopy)
 
 ## Visual Studio
 
@@ -61,6 +62,12 @@ Other great list of useful tools: [Scott Hansleman's List](http://www.hanselman.
 - [Session Buddy](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko?hl=en): Save your tabs for easy restore later.
 - [The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg?hl=en): Reduce memory footprint when you have many tabs open.
 
+## Other
+
+- [VirtualBox](https://www.virtualbox.org/). Make sure to disable Hyper-V on Windows for VBox to run fast.
+- [CrunchBang](http://crunchbang.org/): Really nice linux distro. Small, fast and effective.
+- [JuliaLang](http://julialang.org/)
+
 # Still investigating
 
 ## Backup Software
@@ -69,3 +76,7 @@ Other great list of useful tools: [Scott Hansleman's List](http://www.hanselman.
 - [CrashPlan](http://www.code42.com/crashplan/)
 - [Macrium Reflect](http://www.macrium.com/default.aspx)
 - [Powershell Script](https://7zbackup.codeplex.com/)
+
+## Visual Studio
+
+- [OzCode](http://www.oz-code.com/): Innovative debugging
