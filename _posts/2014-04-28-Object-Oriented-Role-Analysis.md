@@ -1,7 +1,7 @@
 ---
 layout : post
 title : Object Oriented Role Analysis and Modeling
-category : Simple
+category : Programming
 tags :
   - Programming
   - Design
