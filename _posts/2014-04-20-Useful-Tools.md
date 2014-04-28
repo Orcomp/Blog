@@ -1,3 +1,11 @@
+---
+layout : post
+title : Useful Tools
+category : Simple
+tags :
+  - Tools
+---
+
 Here is a list of some of the software I use.
 
 This list will evolve with time.
