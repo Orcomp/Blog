@@ -26,6 +26,7 @@ Good Introduction:
 # Icons
 
 - https://ciconlibrary.codeplex.com/
+- http://thenounproject.com/
 
 
 # Algorithms
@@ -47,3 +48,7 @@ Good Introduction:
 # Other
 
 - http://brandonbyars.com/2014/04/16/apis-documentation-whos-the-tail-and-whos-the-dog/
+
+# PowerShell
+
+- [Quick Reference Guide](http://www.microsoft.com/en-us/download/details.aspx?id=42554)

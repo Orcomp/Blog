@@ -15,3 +15,5 @@ Here is a list of Nuget packages I find useful:
 - [Catel](http://www.catelproject.com/)
 - [Rx and Ix](https://rx.codeplex.com/)
 - [MoreLinq](https://code.google.com/p/morelinq/)
+
+- [Magick.Net](https://magick.codeplex.com/)
