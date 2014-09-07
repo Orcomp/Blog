@@ -8,7 +8,7 @@ tags :
 
 Here is a list of some of the software I use.
 
-This list will evolve with time.
+This list will evolve with time. (Last udpate: 2014/09/07)
 
 Other great list of useful tools: [Scott Hansleman's List](http://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsersToolListForWindows.aspx)
 
@@ -19,7 +19,7 @@ Other great list of useful tools: [Scott Hansleman's List](http://www.hanselman.
 - Folder management:
     - [Clover](http://ejie.me/)
     - [Folders Popup](http://code.jeanlalonde.ca/folderspopup/)
-    - [OneCommander](http://onecommander.com/)
+
 - [Fences](http://www.stardock.com/products/fences/) : Manage your desktop icons.
 - [Recuva](http://www.piriform.com/recuva): Undelete files
 - [NitroReader](http://www.nitropdf.com/pdf-reader): pdf reader
@@ -43,7 +43,7 @@ Other great list of useful tools: [Scott Hansleman's List](http://www.hanselman.
 
 - [github](https://github.com/) and [bitbucket](https://bitbucket.org/)
 - [gitextensions](https://code.google.com/p/gitextensions/) and [SourceTree](http://www.sourcetreeapp.com/)
-- [Notepad++](http://notepad-plus-plus.org/) or [jEdit](http://jedit.org/)
+- [Notepad++](http://notepad-plus-plus.org/)
 - [YourKit](http://www.yourkit.com/): Performance and memory profiler (or [PerfView](http://www.microsoft.com/en-au/download/details.aspx?id=28567))
 - [InnoSetup](http://www.jrsoftware.org/isinfo.php)
 - [kdiff3](http://kdiff3.sourceforge.net/)
@@ -52,7 +52,6 @@ Other great list of useful tools: [Scott Hansleman's List](http://www.hanselman.
 ## Documentation
 
 - [Markdown format](http://daringfireball.net/projects/markdown/syntax) ([https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](Cheatsheet))
-- [MarkdownPad](http://markdownpad.com/)
 - [TpX](http://tpx.sourceforge.net/): Simple and fast illustration program.
 - [moqups](https://moqups.com/)
 - [Greenshot](http://getgreenshot.org/): Screen capture.
@@ -73,6 +72,8 @@ Other great list of useful tools: [Scott Hansleman's List](http://www.hanselman.
 
 - [Session Buddy](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko?hl=en): Save your tabs for easy restore later.
 - [The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg?hl=en): Reduce memory footprint when you have many tabs open.
+- [Minimalist](https://chrome.google.com/webstore/detail/minimalist-for-everything/bmihblnpomgpjkfddepdpdafhhepdbek)
+- [Markdown Here](https://chrome.google.com/webstore/detail/markdown-here/elifhakcjgalahccnjkneoccemfahfoa?hl=en)
 
 ## Other
 
@@ -92,3 +93,18 @@ Other great list of useful tools: [Scott Hansleman's List](http://www.hanselman.
 ## Visual Studio
 
 - [OzCode](http://www.oz-code.com/): Innovative debugging
+
+## Other
+
+- [OneCommander](http://onecommander.com/)
+
+# Updates
+
+## 2014/09/07
+
+- (+) conemu
+- (+) LighTable
+- (+) Minimalist (Chrome extension)
+- (+) Markdown Here (Chrome extension)
+- (-) MarkdownPad2 (Using LighTable with markdown plugin instead. MarkdownPad2 is a good software but too slow to load.)
+- (-) jEdit (Using LightTable instead.)
