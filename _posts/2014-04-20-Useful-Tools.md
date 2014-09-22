@@ -12,6 +12,8 @@ This list will evolve with time. (Last udpate: 2014/09/07)
 
 Other great list of useful tools: [Scott Hansleman's List](http://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsersToolListForWindows.aspx)
 
+**NOTE:** Most of these applications can be installed with [Chocolatey](http://chocolatey.org/) or [Boxstarter](http://boxstarter.org/)
+
 ## General
 
 - Replace notepad with [Notepad2-mod](http://xhmikosr.github.io/notepad2-mod/)
@@ -19,19 +21,18 @@ Other great list of useful tools: [Scott Hansleman's List](http://www.hanselman.
 - Folder management:
     - [Clover](http://ejie.me/)
     - [Folders Popup](http://code.jeanlalonde.ca/folderspopup/)
-
 - [Fences](http://www.stardock.com/products/fences/) : Manage your desktop icons.
+- [ConEmu](https://code.google.com/p/conemu-maximus5/) : Replacement console
 - [Recuva](http://www.piriform.com/recuva): Undelete files
-- [NitroReader](http://www.nitropdf.com/pdf-reader): pdf reader
-- [RssOwl](http://www.rssowl.org/)
+- [FoxitReader](http://www.foxitsoftware.com/Secure_PDF_Reader/): pdf reader
 - [FileZilla](https://filezilla-project.org/): FTP client
 - [Smuxi](https://smuxi.im/): Cross platform IRC client.
 - [VLC  media player](http://www.videolan.org/index.html)
 - [imgBurn](http://www.imgburn.com/)
 - [f.lux](https://justgetflux.com/)
-- [TeraCopy](http://codesector.com/teracopy)
 - [Revo Uninstaller](http://www.revouninstaller.com/)
 - [FreeFileSync](http://sourceforge.net/projects/freefilesync/) Warning: Be careful when clicking through the installer as it will try to install other programs.
+- [Feedly](https://feedly.com/#my) For RSS reader
 
 ## Visual Studio
 
@@ -56,6 +57,7 @@ Other great list of useful tools: [Scott Hansleman's List](http://www.hanselman.
 - [moqups](https://moqups.com/)
 - [Greenshot](http://getgreenshot.org/): Screen capture.
 - [PlantUML](http://plantuml.sourceforge.net/)
+- [LightTable](http://www.lighttable.com/)
 
 - Google drawing is very good as a diagramming tool.
 
@@ -74,6 +76,8 @@ Other great list of useful tools: [Scott Hansleman's List](http://www.hanselman.
 - [The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg?hl=en): Reduce memory footprint when you have many tabs open.
 - [Minimalist](https://chrome.google.com/webstore/detail/minimalist-for-everything/bmihblnpomgpjkfddepdpdafhhepdbek)
 - [Markdown Here](https://chrome.google.com/webstore/detail/markdown-here/elifhakcjgalahccnjkneoccemfahfoa?hl=en)
+- [Feedly Notifier](https://chrome.google.com/webstore/detail/feedly-notifier/egikgfbhipinieabdmcpigejkaomgjgb?hl=en)
+- [Awesome New Tab](https://www.awesomehq.com/)
 
 ## Other
 
@@ -99,6 +103,15 @@ Other great list of useful tools: [Scott Hansleman's List](http://www.hanselman.
 - [OneCommander](http://onecommander.com/)
 
 # Updates
+
+## 2014/09/22
+
+- (-) NitroReader
+- (+) FoxitReader
+- (-) RssOwl
+- (+) Feedly
+- (+) Feedly Notifier
+- (+) Awesome New Tab
 
 ## 2014/09/07
 
