@@ -33,6 +33,7 @@ Other great list of useful tools: [Scott Hansleman's List](http://www.hanselman.
 - [Revo Uninstaller](http://www.revouninstaller.com/)
 - [FreeFileSync](http://sourceforge.net/projects/freefilesync/) Warning: Be careful when clicking through the installer as it will try to install other programs.
 - [Feedly](https://feedly.com/#my) For RSS reader
+- [KeePass](http://keepass.info/)
 
 ## Visual Studio
 
@@ -56,8 +57,7 @@ Other great list of useful tools: [Scott Hansleman's List](http://www.hanselman.
 - [TpX](http://tpx.sourceforge.net/): Simple and fast illustration program.
 - [moqups](https://moqups.com/)
 - [Greenshot](http://getgreenshot.org/): Screen capture.
-- [PlantUML](http://plantuml.sourceforge.net/)
-- [LightTable](http://www.lighttable.com/)
+- [PlantUML](http://plantuml.sourceforge.net/): Check this [link](http://orcomp.github.io/Blog/manual/2014/02/25/PlantUML.html) before installing anything
 
 - Google drawing is very good as a diagramming tool.
 
@@ -78,6 +78,12 @@ Other great list of useful tools: [Scott Hansleman's List](http://www.hanselman.
 - [Markdown Here](https://chrome.google.com/webstore/detail/markdown-here/elifhakcjgalahccnjkneoccemfahfoa?hl=en)
 - [Feedly Notifier](https://chrome.google.com/webstore/detail/feedly-notifier/egikgfbhipinieabdmcpigejkaomgjgb?hl=en)
 - [Awesome New Tab](https://www.awesomehq.com/)
+
+## Chrom Apps
+
+- GoogleDrive (Install google drive file sync app).
+- [PlantUML viewer](https://chrome.google.com/webstore/detail/plantuml-viewer/legbfeljfbjgfifnkmpoajgpgejojooj)
+- [GitHub.Expandinizr](https://github.com/thecodejunkie/github.expandinizr)
 
 ## Other
 
@@ -106,6 +112,9 @@ Other great list of useful tools: [Scott Hansleman's List](http://www.hanselman.
 
 ## 2014/09/22
 
+- (+) KeePass
+- (+) Chrome Apps
+- (-) LightTable
 - (-) NitroReader
 - (+) FoxitReader
 - (-) RssOwl
