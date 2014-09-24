@@ -78,6 +78,7 @@ Other great list of useful tools: [Scott Hansleman's List](http://www.hanselman.
 - [Markdown Here](https://chrome.google.com/webstore/detail/markdown-here/elifhakcjgalahccnjkneoccemfahfoa?hl=en)
 - [Feedly Notifier](https://chrome.google.com/webstore/detail/feedly-notifier/egikgfbhipinieabdmcpigejkaomgjgb?hl=en)
 - [Awesome New Tab](https://www.awesomehq.com/)
+- [StackEdit](https://stackedit.io/)
 
 ## Chrom Apps
 
