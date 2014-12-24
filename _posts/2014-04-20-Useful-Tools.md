@@ -79,8 +79,10 @@ Other great list of useful tools: [Scott Hansleman's List](http://www.hanselman.
 - [Feedly Notifier](https://chrome.google.com/webstore/detail/feedly-notifier/egikgfbhipinieabdmcpigejkaomgjgb?hl=en)
 - [Awesome New Tab](https://www.awesomehq.com/)
 - [StackEdit](https://stackedit.io/)
+- [Boards for Trello](http://paulferrett.com/boards-for-trello/)
+- [Yet Another Google Bookmarks Extension](http://www.jimnuzzi.com/YAGBE/)
 
-## Chrom Apps
+## Chrome Apps
 
 - GoogleDrive (Install google drive file sync app).
 - [PlantUML viewer](https://chrome.google.com/webstore/detail/plantuml-viewer/legbfeljfbjgfifnkmpoajgpgejojooj)
@@ -110,6 +112,10 @@ Other great list of useful tools: [Scott Hansleman's List](http://www.hanselman.
 - [OneCommander](http://onecommander.com/)
 
 # Updates
+
+## 2014/12/24
+
+- (+) Added more Chrome extensions
 
 ## 2014/09/22
 
