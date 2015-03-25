@@ -8,7 +8,7 @@ tags :
 
 Here is a list of some of the software I use.
 
-This list will evolve with time. (Last udpate: 2014/09/07)
+This list will evolve with time. (Last udpate: 2015/03/26)
 
 Other great list of useful tools: [Scott Hansleman's List](http://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsersToolListForWindows.aspx)
 
@@ -20,7 +20,6 @@ Other great list of useful tools: [Scott Hansleman's List](http://www.hanselman.
 - Replace Process Explorer with [Process Hacker](http://processhacker.sourceforge.net/)
 - Folder management:
     - [Clover](http://ejie.me/)
-    - [Folders Popup](http://code.jeanlalonde.ca/folderspopup/)
 - [Fences](http://www.stardock.com/products/fences/) : Manage your desktop icons.
 - [ConEmu](https://code.google.com/p/conemu-maximus5/) : Replacement console
 - [Recuva](http://www.piriform.com/recuva): Undelete files
@@ -30,8 +29,6 @@ Other great list of useful tools: [Scott Hansleman's List](http://www.hanselman.
 - [VLC  media player](http://www.videolan.org/index.html)
 - [imgBurn](http://www.imgburn.com/)
 - [f.lux](https://justgetflux.com/)
-- [Revo Uninstaller](http://www.revouninstaller.com/)
-- [FreeFileSync](http://sourceforge.net/projects/freefilesync/) Warning: Be careful when clicking through the installer as it will try to install other programs.
 - [Feedly](https://feedly.com/#my) For RSS reader
 - [KeePass](http://keepass.info/)
 
@@ -64,7 +61,6 @@ Other great list of useful tools: [Scott Hansleman's List](http://www.hanselman.
 ## Collaboration
 
 - [Trello](trello.com)
-- [Confluence](https://www.atlassian.com/software/confluence)
 - Skype
 - [TeamViewer](http://www.teamviewer.com/en/index.aspx)
 - [Kato](kato.im)
@@ -73,8 +69,6 @@ Other great list of useful tools: [Scott Hansleman's List](http://www.hanselman.
 ## Chrome Extensions
 
 - [Session Buddy](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko?hl=en): Save your tabs for easy restore later.
-- [The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg?hl=en): Reduce memory footprint when you have many tabs open.
-- [Minimalist](https://chrome.google.com/webstore/detail/minimalist-for-everything/bmihblnpomgpjkfddepdpdafhhepdbek)
 - [Markdown Here](https://chrome.google.com/webstore/detail/markdown-here/elifhakcjgalahccnjkneoccemfahfoa?hl=en)
 - [Feedly Notifier](https://chrome.google.com/webstore/detail/feedly-notifier/egikgfbhipinieabdmcpigejkaomgjgb?hl=en)
 - [Awesome New Tab](https://www.awesomehq.com/)
@@ -91,14 +85,13 @@ Other great list of useful tools: [Scott Hansleman's List](http://www.hanselman.
 ## Other
 
 - [VirtualBox](https://www.virtualbox.org/). Make sure to disable Hyper-V on Windows for VBox to run fast.
-- [CrunchBang](http://crunchbang.org/): Really nice linux distro. Small, fast and effective.
+- [Manjaro](https://manjaro.github.io/)
 - [JuliaLang](http://julialang.org/)
 
 # Still investigating
 
 ## Backup Software
 
-- [ShadowProtext](http://www.shadowprotect.com/backup-software/shadowprotect-desktop)
 - [CrashPlan](http://www.code42.com/crashplan/)
 - [Macrium Reflect](http://www.macrium.com/default.aspx)
 - [Powershell Script](https://7zbackup.codeplex.com/)
@@ -112,6 +105,17 @@ Other great list of useful tools: [Scott Hansleman's List](http://www.hanselman.
 - [OneCommander](http://onecommander.com/)
 
 # Updates
+
+## 2015/03/26
+
+- (-) [Folders Popup](http://code.jeanlalonde.ca/folderspopup/)
+- (-) [Revo Uninstaller](http://www.revouninstaller.com/)
+- (-) [FreeFileSync](http://sourceforge.net/projects/freefilesync/) Warning: Be careful when clicking through the installer as it will try to install other programs.
+- (-) [Confluence](https://www.atlassian.com/software/confluence)
+- (-) [The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg?hl=en): Reduce memory footprint when you have many tabs open.
+- (-) [Minimalist](https://chrome.google.com/webstore/detail/minimalist-for-everything/bmihblnpomgpjkfddepdpdafhhepdbek)
+- (-) [CrunchBang](http://crunchbang.org/): Really nice linux distro. Small, fast and effective.
+- (+) [Manjaro](https://manjaro.github.io/)
 
 ## 2014/12/24
 
