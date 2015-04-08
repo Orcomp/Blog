@@ -8,11 +8,15 @@ tags :
 
 Here is a list of some of the software I use.
 
-This list will evolve with time. (Last udpate: 2015/03/26)
+This list will evolve with time. (Last udpate: 2015/04/08. See bottom of page for changelog.)
 
 Other great list of useful tools: [Scott Hansleman's List](http://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsersToolListForWindows.aspx)
 
 **NOTE:** Most of these applications can be installed with [Chocolatey](http://chocolatey.org/) or [Boxstarter](http://boxstarter.org/)
+
+> Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
+>
+> Antoine de Saint-Exupery
 
 ## General
 
@@ -69,10 +73,7 @@ Other great list of useful tools: [Scott Hansleman's List](http://www.hanselman.
 ## Chrome Extensions
 
 - [Session Buddy](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko?hl=en): Save your tabs for easy restore later.
-- [Markdown Here](https://chrome.google.com/webstore/detail/markdown-here/elifhakcjgalahccnjkneoccemfahfoa?hl=en)
 - [Feedly Notifier](https://chrome.google.com/webstore/detail/feedly-notifier/egikgfbhipinieabdmcpigejkaomgjgb?hl=en)
-- [Awesome New Tab](https://www.awesomehq.com/)
-- [StackEdit](https://stackedit.io/)
 - [Boards for Trello](http://paulferrett.com/boards-for-trello/)
 - [Yet Another Google Bookmarks Extension](http://www.jimnuzzi.com/YAGBE/)
 
@@ -105,6 +106,13 @@ Other great list of useful tools: [Scott Hansleman's List](http://www.hanselman.
 - [OneCommander](http://onecommander.com/)
 
 # Updates
+
+## 2015/04/08
+
+- (-) [Markdown Here](https://chrome.google.com/webstore/detail/markdown-here/elifhakcjgalahccnjkneoccemfahfoa?hl=en)
+- (-) [Awesome New Tab](https://www.awesomehq.com/)
+- (-) [StackEdit](https://stackedit.io/)
+- (-) [Boards for Trello](http://paulferrett.com/boards-for-trello/)
 
 ## 2015/03/26
 
