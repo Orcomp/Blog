@@ -8,7 +8,7 @@ tags :
 
 Here is a list of some of the software I use.
 
-This list will evolve with time. (Last udpate: 2015/04/08. See bottom of page for changelog.)
+This list will evolve with time. (Last udpate: 2015/04/13. See bottom of page for changelog.)
 
 Other great list of useful tools: [Scott Hansleman's List](http://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsersToolListForWindows.aspx)
 
@@ -35,6 +35,7 @@ Other great list of useful tools: [Scott Hansleman's List](http://www.hanselman.
 - [f.lux](https://justgetflux.com/)
 - [Feedly](https://feedly.com/#my) For RSS reader
 - [KeePass](http://keepass.info/)
+- [KeyMapping for Mac wireless keyboard](http://uxsoft.cz/projects/apple-wireless-keyboard/)
 
 ## Visual Studio
 
@@ -107,6 +108,9 @@ Other great list of useful tools: [Scott Hansleman's List](http://www.hanselman.
 
 # Updates
 
+## 2015/04/13
+
+- (+) [KeyMapping for Mac wireless keyboard](http://uxsoft.cz/projects/apple-wireless-keyboard/)
 ## 2015/04/08
 
 - (-) [Markdown Here](https://chrome.google.com/webstore/detail/markdown-here/elifhakcjgalahccnjkneoccemfahfoa?hl=en)
