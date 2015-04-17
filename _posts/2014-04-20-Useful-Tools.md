@@ -87,7 +87,7 @@ Other great list of useful tools: [Scott Hansleman's List](http://www.hanselman.
 ## Other
 
 - [VirtualBox](https://www.virtualbox.org/). Make sure to disable Hyper-V on Windows for VBox to run fast.
-- [Manjaro](https://manjaro.github.io/)
+- [Manjaro](https://manjaro.github.io/) (The xfce minimial edition)
 - [JuliaLang](http://julialang.org/)
 
 # Still investigating
