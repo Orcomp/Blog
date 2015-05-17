@@ -8,11 +8,15 @@ tags :
 
 Here is a list of some of the software I use.
 
-This list will evolve with time. (Last udpate: 2015/05/17)
+This list will evolve with time. (Last udpate: 2015/05/17. See bottom of page for changelog.)
 
 Other great list of useful tools: [Scott Hansleman's List](http://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsersToolListForWindows.aspx)
 
 **NOTE:** Most of these applications can be installed with [Chocolatey](http://chocolatey.org/) or [Boxstarter](http://boxstarter.org/)
+
+> Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
+>
+> Antoine de Saint-Exupery
 
 ## General
 
@@ -31,6 +35,7 @@ Other great list of useful tools: [Scott Hansleman's List](http://www.hanselman.
 - [f.lux](https://justgetflux.com/)
 - [Feedly](https://feedly.com/#my) For RSS reader
 - [KeePass](http://keepass.info/)
+- [KeyMapping for Mac wireless keyboard](http://uxsoft.cz/projects/apple-wireless-keyboard/)
 
 ## Visual Studio
 
@@ -73,10 +78,7 @@ Other great list of useful tools: [Scott Hansleman's List](http://www.hanselman.
 ## Chrome Extensions
 
 - [Session Buddy](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko?hl=en): Save your tabs for easy restore later.
-- [Markdown Here](https://chrome.google.com/webstore/detail/markdown-here/elifhakcjgalahccnjkneoccemfahfoa?hl=en)
 - [Feedly Notifier](https://chrome.google.com/webstore/detail/feedly-notifier/egikgfbhipinieabdmcpigejkaomgjgb?hl=en)
-- [Awesome New Tab](https://www.awesomehq.com/)
-- [StackEdit](https://stackedit.io/)
 - [Boards for Trello](http://paulferrett.com/boards-for-trello/)
 - [Yet Another Google Bookmarks Extension](http://www.jimnuzzi.com/YAGBE/)
 
@@ -89,7 +91,7 @@ Other great list of useful tools: [Scott Hansleman's List](http://www.hanselman.
 ## Other
 
 - [VirtualBox](https://www.virtualbox.org/). Make sure to disable Hyper-V on Windows for VBox to run fast.
-- [Manjaro](https://manjaro.github.io/)
+- [Manjaro](https://manjaro.github.io/) (The xfce minimial edition)
 - [JuliaLang](http://julialang.org/)
 
 # Still investigating
@@ -110,7 +112,7 @@ Other great list of useful tools: [Scott Hansleman's List](http://www.hanselman.
 
 # Updates
 
-## 2015/07/17
+## 2015/05/17
 
 - (-) [ReSpeller](http://visualstudiogallery.msdn.microsoft.com/1dae1354-c868-4a4d-a2f9-8d7e83acd07a?SRC=VSIDE)
 - (+) [HideShowComments](https://visualstudiogallery.msdn.microsoft.com/03141ea7-c35e-4533-b05b-9e60545e93eb)
@@ -118,6 +120,17 @@ Other great list of useful tools: [Scott Hansleman's List](http://www.hanselman.
 - (+) [RockMargin](https://visualstudiogallery.msdn.microsoft.com/1b0d7360-40dd-447e-8bef-90e2cf52f683)
 - (+) [Visual Studio Spell Checker](https://visualstudiogallery.msdn.microsoft.com/a23de100-31a1-405c-b4b7-d6be40c3dfff)
 - (+) [VSColorOutput](https://visualstudiogallery.msdn.microsoft.com/f4d9c2b5-d6d7-4543-a7a5-2d7ebabc2496)
+
+## 2015/04/13
+
+- (+) [KeyMapping for Mac wireless keyboard](http://uxsoft.cz/projects/apple-wireless-keyboard/)
+
+## 2015/04/08
+
+- (-) [Markdown Here](https://chrome.google.com/webstore/detail/markdown-here/elifhakcjgalahccnjkneoccemfahfoa?hl=en)
+- (-) [Awesome New Tab](https://www.awesomehq.com/)
+- (-) [StackEdit](https://stackedit.io/)
+- (-) [Boards for Trello](http://paulferrett.com/boards-for-trello/)
 
 ## 2015/03/26
 
