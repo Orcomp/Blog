@@ -8,7 +8,7 @@ tags :
 
 Here is a list of some of the software I use.
 
-This list will evolve with time. (Last udpate: 2015/05/17. See bottom of page for changelog.)
+This list will evolve with time. (Last udpate: 2015/05/31. See bottom of page for changelog.)
 
 Other great list of useful tools: [Scott Hansleman's List](http://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsersToolListForWindows.aspx)
 
@@ -64,6 +64,7 @@ Other great list of useful tools: [Scott Hansleman's List](http://www.hanselman.
 - [moqups](https://moqups.com/)
 - [Greenshot](http://getgreenshot.org/): Screen capture.
 - [PlantUML](http://plantuml.sourceforge.net/): Check this [link](http://orcomp.github.io/Blog/manual/2014/02/25/PlantUML.html) before installing anything
+- [LICEcap](https://github.com/lepht/licecap): gif creator
 
 - Google drawing is very good as a diagramming tool.
 
@@ -108,9 +109,19 @@ Other great list of useful tools: [Scott Hansleman's List](http://www.hanselman.
 
 ## Other
 
-- [OneCommander](http://onecommander.com/)
+- [WorldClock](http://www.wimsprograms.com/programs.html) Simple (always stay on top) clock with multiple time zones.
+- [WorkFlowy](https://workflowy.com/) Simple list making app
+- [DropBox](www.dropbox.com)
 
 # Updates
+
+## 2105/05/31
+
+- (-) [OneCommander](http://onecommander.com/)
+- (+) [WorldClock](http://www.wimsprograms.com/programs.html) Simple (always stay on top) clock with multiple time zones.
+- (+) [WorkFlowy](https://workflowy.com/) Simple list making app
+- (+) [DropBox](www.dropbox.com)
+- (+) [LICEcap](https://github.com/lepht/licecap)
 
 ## 2015/05/17
 
