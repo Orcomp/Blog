@@ -1,0 +1,4 @@
+Each requirement or specification must have one or more validation rule.
+
+If a specification has more than one validation rule it might need to be simplified.
+Generally a specification should only have one validation rule.
