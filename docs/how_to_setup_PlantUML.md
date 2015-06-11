@@ -11,7 +11,6 @@ Activity diagrams will help you deconstruct a problem and see patterns emerging 
 It will help you:
 
 - Add structure to your code and respect the _Single Responsibility_ principle. ([SOLID](http://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
-
 - Visualize your solution and highlight areas where you can [**re-use**](http://en.wikipedia.org/wiki/Reusability) the same code.
 
 It is always good to completely solve a problem conceptually "on paper" before  even writing a single line of code.
