@@ -11,7 +11,7 @@ TOC
 
 Work
 -----
--[How to setup PlantUML](#docs/how_to_setup_PlantUML)
+- [How to setup PlantUML](#docs/how_to_setup_PlantUML)
 
 
 
