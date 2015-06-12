@@ -4,7 +4,7 @@ body {
     padding: 0;
 
     font-family: Verdana, Arial;
-    font-size: 0.8em;
+    font-size: 0.9em;
 }
 
 #sidebar {
@@ -182,13 +182,11 @@ body {
 
 #content ul li {
     text-indent: -5px;  /* to compensate for the padding for the dash */
-    font-size: 13px;
 }
 
 #content ul li.link {
     color: #4682BE;
     text-decoration: none;
-    font-size: 13px;
     font-weight: bold;
     cursor: pointer;
 }
