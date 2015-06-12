@@ -1,3 +1,6 @@
+How to use PlantUML
+====================
+
 Having a map to get from one place to other is invaluable, if you want to save time, money and avoid frustrations.
 
 The same applies when writing code. Knowing where to start from, and where to finish as well as all the steps you need to take in order to get there, will give you clarity of thought and help you produce better quality code.
@@ -20,14 +23,15 @@ The problem I find with most UML applications is that:
 - You find yourself fighting with the tool rather than solving problems.
 - They save the diagrams in a binary format, which then makes it impossible to version control, or collaborate with others in a meaningful and productive way.
 
-# PlantUML
+PlantUML
+-----------
 
 This is where [PlantUML](http://plantuml.sourceforge.net/) comes in. PlantUML allows you to create UML diagrams as fast as you can type (or think).
 
 It allows you to define UML diagrams using simple text, which can then be version controlled. 
 Collaborating with others on the design of a piece of software has now become easy.
 
-## Easiest and quickest way to get up and running
+### Easiest and quickest way to get up and running
 
 Here is the easiest and quickest way to get up and running with plantUML.
 

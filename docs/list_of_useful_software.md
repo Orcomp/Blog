@@ -1,3 +1,6 @@
+List of Useful Software
+==========================
+
 Here is a list of software installed on my computer that I use on a regular basis.
 
 This list will evolve with time. Please see bottom of page for the changelog.
@@ -13,7 +16,8 @@ Other great list of useful tools can be found at:
 >
 > Antoine de Saint-Exupery
 
-## General
+General
+---------
 
 - Replace notepad with [Notepad2-mod](http://xhmikosr.github.io/notepad2-mod/)
 - Replace Process Explorer with [Process Hacker](http://processhacker.sourceforge.net/)
@@ -32,7 +36,8 @@ Other great list of useful tools can be found at:
 - [KeePass](http://keepass.info/)
 - [KeyMapping for Mac wireless keyboard](http://uxsoft.cz/projects/apple-wireless-keyboard/)
 
-## Visual Studio
+Visual Studio
+--------------
 
 - [Resharper](http://www.jetbrains.com/resharper/)
 - [I Hate #Regions](http://visualstudiogallery.msdn.microsoft.com/0ca60d35-1e02-43b7-bf59-ac7deb9afbca)
@@ -42,7 +47,8 @@ Other great list of useful tools can be found at:
 - [Visual Studio Spell Checker](https://visualstudiogallery.msdn.microsoft.com/a23de100-31a1-405c-b4b7-d6be40c3dfff)
 - [VSColorOutput](https://visualstudiogallery.msdn.microsoft.com/f4d9c2b5-d6d7-4543-a7a5-2d7ebabc2496)
 
-## Development
+Development
+-------------
 
 - [github](https://github.com/) and [bitbucket](https://bitbucket.org/)
 - [gitextensions](https://code.google.com/p/gitextensions/) and [SourceTree](http://www.sourcetreeapp.com/)
@@ -53,7 +59,8 @@ Other great list of useful tools can be found at:
 - [kdiff3](http://kdiff3.sourceforge.net/)
 - [MySQL Workbench](http://www.mysql.com/products/workbench/)
 
-## Documentation
+Documentation
+---------------
 
 - [Markdown format](http://daringfireball.net/projects/markdown/syntax) ([https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](Cheatsheet))
 - [TpX](http://tpx.sourceforge.net/): Simple and fast illustration program.
@@ -63,7 +70,8 @@ Other great list of useful tools can be found at:
 - [LICEcap](https://github.com/lepht/licecap): gif creator
 - Google drawing is very good as a diagramming tool.
 
-## Collaboration
+Collaboration
+--------------
 
 - [Trello](trello.com)
 - Skype
@@ -71,20 +79,23 @@ Other great list of useful tools can be found at:
 - [Kato](kato.im)
 - Google docs
 
-## Chrome Extensions
+Chrome Extensions
+-------------------
 
 - [Session Buddy](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko?hl=en): Save your tabs for easy restore later.
 - [Feedly Notifier](https://chrome.google.com/webstore/detail/feedly-notifier/egikgfbhipinieabdmcpigejkaomgjgb?hl=en)
 - [Boards for Trello](http://paulferrett.com/boards-for-trello/)
 - [Yet Another Google Bookmarks Extension](http://www.jimnuzzi.com/YAGBE/)
 
-## Chrome Apps
+Chrome Apps
+-------------
 
 - GoogleDrive (Install google drive file sync app).
 - [PlantUML viewer](https://chrome.google.com/webstore/detail/plantuml-viewer/legbfeljfbjgfifnkmpoajgpgejojooj)
 - [GitHub.Expandinizr](https://github.com/thecodejunkie/github.expandinizr)
 
-## Other
+Other
+-------
 
 - [VirtualBox](https://www.virtualbox.org/). Make sure to disable Hyper-V on Windows for VBox to run fast.
 - [Manjaro](https://manjaro.github.io/) (The xfce minimial edition)
@@ -93,17 +104,20 @@ Other great list of useful tools can be found at:
 Still investigating
 =====================
 
-## Backup Software
+Backup Software
+-----------------
 
 - [CrashPlan](http://www.code42.com/crashplan/)
 - [Macrium Reflect](http://www.macrium.com/default.aspx)
 - [Powershell Script](https://7zbackup.codeplex.com/)
 
-## Visual Studio
+Visual Studio
+---------------
 
 - [OzCode](http://www.oz-code.com/): Innovative debugging
 
-## Other
+Other
+------
 
 - [WorldClock](http://www.wimsprograms.com/programs.html) Simple (always stay on top) clock with multiple time zones.
 - [WorkFlowy](https://workflowy.com/) Simple list making app
