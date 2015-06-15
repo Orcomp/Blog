@@ -17,7 +17,7 @@ Requirements
 - Searchable content
 - Can be hosted on github pages
 
-All these rquirements have been met by [ditto](https://github.com/chutsu/ditto). I really like how simple and easy it is to setup and use.
+All these requirements have been met by [ditto](https://github.com/chutsu/ditto). I really like how simple and easy it is to setup and use.
 To find out more visit their [documentation page](http://chutsu.github.io/ditto/).
 
 What I find interesting is that I have always been disatisfied with the 'blog' offerings, and could never quite put my fingure on "why" until recently.
@@ -27,7 +27,7 @@ Why not a blog?
 
 - Blogs are designed as a diary and are inherntly unstructured
 - Good posts often get burried over time (They encourage users to blog often and tend to generate a lot of "noise".)
-- I don't intend to write a lot, but what I do write, I want to be able to find quickly. (For some reason I always feel like I am fitting with blogs in order to get to the information I want.)
+- I don't intend to write a lot, but what I do write, I want to be able to find quickly. (For some reason I always feel like I am fighting with blogs in order to get to the information I want.)
 
 I am more inerested in a system that will make it easy for me to catalogue my thoughts and allow me to update and refine the content over time.
 
@@ -56,4 +56,5 @@ Here is the link to the advanced github [search page](https://github.com/search/
 
 ### Environment
 
-Aother great ditto feature is the fact you **don't have to change a thing**, (or compile (build) anything) on your development environment. You can just create content directly in your repository directory and push the changes straight to github. The way the pages look on your localsever will be exactly the same as on github pages.
+Another great ditto feature is the fact you **don't have to change a thing**, (or compile (build) anything) on your development environment. You can just create content directly in your repository directory and push the changes straight to github. The way the pages look on your localsever will be exactly the same as on github pages.
+
