@@ -47,6 +47,13 @@ In order to get ditto to work with IIS on my computer (i.e. so I can quickly see
 Extras
 --------
 
+### Search
+
 One of the features I like most about ditto is that the search functionality actually falls back on the standard github search functionality, which means by default ditto search is extremely powerful and fast!
 
 Here is the link to the advanced github [search page](https://github.com/search/advanced). You can use the same shortcut strings in ditto.
+
+
+### Environment
+
+Aother great ditto feature is the fact you **don't have to change a thing**, (or compile (build) anything) on your development environment. You can just create content directly in your repository directory and push the changes straight to github. The way the pages look on your localsever will be exactly the same as on github pages.

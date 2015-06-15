@@ -20,3 +20,4 @@ Misc
 
 - [ditto Help](http://chutsu.github.io/ditto/#docs/how_do_i_use_ditto)
 - [WildGums](https://github.com/WildGums)
+- [OR Comps](http://orcomps.blogspot.com.au/)
