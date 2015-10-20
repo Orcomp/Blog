@@ -20,7 +20,7 @@ Requirements
 All these requirements have been met by [ditto](https://github.com/chutsu/ditto). I really like how simple and easy it is to setup and use.
 To find out more visit their [documentation page](http://chutsu.github.io/ditto/).
 
-What I find interesting is that I have always been disatisfied with the 'blog' offerings, and could never quite put my fingure on "why" until recently.
+What I find interesting is that I have always been disatisfied with the 'blog' offerings, and could never quite put my finger on "why" until recently.
 
 Why not a blog?
 ----------------
