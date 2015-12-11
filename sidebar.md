@@ -7,7 +7,8 @@ TOC
 
 - [Why ditto?](#docs/why_ditto)
 - [List of useful software](#docs/list_of_useful_software)
-
+- [Videos to watch](#docs/videos_to_watch)
+- [Books to read](#docs/books_to_read)
 
 Work
 -----
