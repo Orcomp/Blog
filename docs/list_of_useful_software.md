@@ -93,6 +93,13 @@ Chrome Apps
 - [PlantUML viewer](https://chrome.google.com/webstore/detail/plantuml-viewer/legbfeljfbjgfifnkmpoajgpgejojooj)
 - [GitHub.Expandinizr](https://github.com/thecodejunkie/github.expandinizr)
 
+Chrome Settings
+----------------
+
+Type in Chrome://flags
+
+- Enable download resumption
+
 Other
 -------
 
