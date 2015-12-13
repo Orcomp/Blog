@@ -34,7 +34,6 @@ General
 - [f.lux](https://justgetflux.com/)
 - [Feedly](https://feedly.com/#my) For RSS reader
 - [KeePass](http://keepass.info/)
-- [KeyMapping for Mac wireless keyboard](http://uxsoft.cz/projects/apple-wireless-keyboard/)
 
 Visual Studio
 --------------
@@ -76,7 +75,7 @@ Collaboration
 - [Trello](trello.com)
 - Skype
 - [TeamViewer](http://www.teamviewer.com/en/index.aspx)
-- [Kato](kato.im)
+- [Slack](slack.com)
 - Google docs
 
 Chrome Extensions
@@ -125,6 +124,12 @@ Other
 
 Updates
 =========
+
+## 2015/12/13
+
+- (-) [KeyMapping for Mac wireless keyboard](http://uxsoft.cz/projects/apple-wireless-keyboard/)
+- (-) [Kato](kato.im)
+- (+) [Slack](slack.com)
 
 ## 2015/06/08
 
